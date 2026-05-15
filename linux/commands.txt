@@ -1,0 +1,15 @@
+ls
+pwd
+cd
+mkdir
+rm
+cp
+mv
+chmod
+chown
+grep
+find
+top
+ps
+systemctl
+journalctl

@@ -1,0 +1,6 @@
+docker ps
+docker images
+docker build
+docker run
+docker stop
+docker rm
